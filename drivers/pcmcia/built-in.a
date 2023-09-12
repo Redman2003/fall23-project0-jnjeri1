@@ -1,0 +1,22 @@
+!<thin>
+//                                              128       `
+cs.o/
+socket_sysfs.o/
+cardbus.o/
+ds.o/
+pcmcia_resource.o/
+cistpl.o/
+pcmcia_cis.o/
+rsrc_mgr.o/
+rsrc_nonstatic.o/
+yenta_socket.o/
+/0              0           0     0     644     40480     `
+/6              0           0     0     644     9400      `
+/22             0           0     0     644     4848      `
+/33             0           0     0     644     47952     `
+/39             0           0     0     644     25752     `
+/58             0           0     0     644     29448     `
+/68             0           0     0     644     12256     `
+/82             0           0     0     644     3984      `
+/94             0           0     0     644     27384     `
+/112            0           0     0     644     55448     `
